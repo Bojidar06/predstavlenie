@@ -10,13 +10,13 @@
 
 
 body {
-  background-image: url('SplitShire-8098-1800x1200.jpg');
-  background-size: 220%;
+  background-image: url('daprchatappstep1.jpg');
   background-repeat:   no-repeat;
+  background-position:top;
     font-family: "Merchant Ledger";
   text-align: center;
-  color:#fff;
-  padding-top:9em;
+  color: black;
+  padding-top:10em;
   font-size: 30px;
 }
 
@@ -51,7 +51,7 @@ button{
 }
 
 .typewriter{
-  width: 60vw;
+  width: 53vw;
   word-wrap: break-word;
   overflow-wrap: break-word;
   margin: 0 auto;
@@ -59,7 +59,7 @@ button{
 }
 
 div{
-  font-size: 60px;
+  font-size: 65px;
 }
 
 @keyframes typing{
